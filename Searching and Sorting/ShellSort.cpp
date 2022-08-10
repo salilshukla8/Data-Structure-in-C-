@@ -46,7 +46,7 @@ int main()
 
     cout<<endl<<endl;;
 
-    ShellSort(myarr,n);   //Shell Sort Called here
+    ShellSort(myarr,n);   //Shell Sort Called here (Using Bubble Sort tech)
 
     cout<<"After Shell Sort"<<endl;
 
